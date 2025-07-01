@@ -1,6 +1,6 @@
 {
-  "name": "studynotion-client",
-  "description": "This is the client side of the StudyNotion App",
+  "name": "codecraft-client",
+  "description": "This is the client side of the CodeCraft App",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
